@@ -1,0 +1,6 @@
+{
+  "prompt": "two identical transparent containers placed side by side, one filled with clearly visible uniform spheres, the other filled with the same spheres but obscured by shifting dense mist, both containers identical in size and shape, multiple human hands from different directions all reaching toward the visible container while ignoring the obscured one, subtle symmetry suggesting equal contents, eerie atmosphere, cinematic lighting, no text, no symbols --ar 3:2 --v 6 --style raw",
+  "model": "Flux pro 2",
+  "paradox": "Ellsberg Paradox",
+  "visual_logic": "Two identical options differ only in visibility; people consistently choose the known one, revealing preference for certainty over equal but ambiguous risk."
+}
